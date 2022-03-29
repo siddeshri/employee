@@ -1,0 +1,14 @@
+#inculde<stdio.h>
+employed{
+char name[50]
+int no.;
+float salary;
+
+};
+main(){
+employee emp={"charag,1234567788,20000};
+printf("employee name:%s",emp.name)
+printf("no=%d\n",emp.no);
+printf("no=%f\n",emp.salary);
+return 0;
+}
